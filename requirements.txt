@@ -8,5 +8,5 @@ matplotlib
 openpyxl
 plotly
 mplfinance
-shioaji
+
 pynacl
